@@ -1,2 +1,3 @@
 # hello-world
-the first repository
+Hi,humans.
+I am a boy.
